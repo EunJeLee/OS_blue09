@@ -446,3 +446,7 @@ Wikipedia
 오픈 소스, 오픈 소스 혁명의 목소리 - 에릭 레이먼드, 리처드 스톨만, 리누스 토발즈, 팀 오라일리 외
 
 공개SW포털(http://www.oss.kr/)
+
+https://opensource.ohistoryrg/
+
+http://www.ddaily.co.kr/news/article.html?no=115248
